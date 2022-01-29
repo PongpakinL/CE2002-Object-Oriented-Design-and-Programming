@@ -1,0 +1,21 @@
+
+   [
+        {
+            "name":"June",
+            "gender":"female",
+            "contactNumber":"95",
+            "member":true
+        },
+        {
+            "name":"John",
+            "gender":"male",
+            "contactNumber":"90",
+            "member":false
+        },
+        {
+            "name":"Mark",
+            "gender":"male",
+            "contactNumber":"92",
+            "member":true
+        }
+    ]

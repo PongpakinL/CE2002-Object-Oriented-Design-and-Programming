@@ -1,0 +1,92 @@
+[
+    {
+        "price":8,
+        "staffName":"K",
+        "tableID":7,
+        "itemList":
+            [
+                {"endDate":"7 2 2022",
+                 "price":"8",
+                 "name":"Tet",
+                 "promotionItemList":
+                    [
+                        {"price":3,
+                         "name":"Decafe Iced Coffee",
+                         "description":"",
+                         "pricing":
+                            [
+                                {"priceString":"$3.00",
+                                 "price":3,
+                                 "currency":"USD"
+                                }
+                            ]
+                        }
+                    ],
+                 "startDate":"1 2 2022"
+                }
+            ]
+    },
+    {
+        "price":19,
+        "staffName":"N",
+        "tableID":3,
+        "itemList":
+            [
+                {
+                    "endDate":"7 2 2022",
+                    "price":"8",
+                    "name":"Tet",
+                    "promotionItemList":
+                        [
+                            {"price":3,
+                             "name":"Decafe Iced Coffee",
+                             "description":"",
+                             "pricing":
+                                [
+                                    {
+                                        "priceString":"$3.00",
+                                        "price":3,
+                                        "currency":"USD"
+                                    }
+                                ]
+                            }
+                        ],
+                    "startDate":"1 2 2022"
+                },
+                {"endDate":"7 2 2022",
+                 "price":"8",
+                 "name":"Tet",
+                 "promotionItemList":
+                 [
+                     {
+                         "price":3,
+                         "name":"Decafe Iced Coffee",
+                         "description":"",
+                         "pricing":
+                         [
+                             {
+                                 "priceString":"$3.00",
+                                 "price":3,
+                                 "currency":"USD"
+                             }
+                         ]
+                     }
+                 ],
+                 "startDate":"1 2 2022"
+                },
+                {
+                    "price":3,
+                    "name":"Iced Tea",
+                    "description":"",
+                    "pricing":
+                        [
+                            {
+                                "priceString":"$3.00",
+                                "price":3,
+                                "currency":"USD"
+                            }
+                        ]
+                }
+            ]
+    }
+]
